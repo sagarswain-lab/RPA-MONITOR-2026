@@ -17,8 +17,8 @@
 # ⬡ RPA MONITOR 2026 ⬡
 ### *Enterprise Automation Telemetry & Real-Time Control Terminal*
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&logo=vercel&logoColor=000&labelColor=060610)](http://localhost:5173/)
-[![Frontend Battle](https://img.shields.io/badge/FRONTEND_BATTLE-ROUND_2-7C3AED?style=for-the-badge&logo=lightning&labelColor=060610)](https://github.com/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00E5FF?style=for-the-badge&logo=vercel&logoColor=000&labelColor=060610)](https://rpa-monitor-2026.vercel.app/)
+[![Frontend Battle](https://img.shields.io/badge/FRONTEND_BATTLE-ROUND_2-7C3AED?style=for-the-badge&logo=lightning&labelColor=060610)](https://github.com/sagarswain-lab/RPA-MONITOR-2026)
 [![License](https://img.shields.io/badge/LICENSE-MIT-10B981?style=for-the-badge&labelColor=060610)](LICENSE)
 [![React](https://img.shields.io/badge/REACT-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=060610)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/VITE-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=060610)](https://vitejs.js.org/)
@@ -26,7 +26,7 @@
 
 ---
 
-### ⚡ [**>>> CLICK HERE TO LAUNCH LIVE TERMINAL <<<**](http://localhost:5173/) ⚡
+### ⚡ [**>>> CLICK HERE TO LAUNCH LIVE TERMINAL <<<**](https://rpa-monitor-2026.vercel.app/) ⚡
 
 ---
 
@@ -142,8 +142,8 @@ FrontEnd Battle 3.0 phase 2/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/rpa-monitor-2026.git
-   cd rpa-monitor-2026
+   git clone https://github.com/sagarswain-lab/RPA-MONITOR-2026.git
+   cd RPA-MONITOR-2026
    ```
 
 2. **Install dependencies**:
@@ -157,7 +157,7 @@ FrontEnd Battle 3.0 phase 2/
    ```
 
 4. **Open in Browser**:
-   Navigate to `http://localhost:5173/` to access the live terminal interface.
+   Navigate to `https://rpa-monitor-2026.vercel.app/` (or local `http://localhost:5173/`).
 
 ---
 
@@ -176,6 +176,6 @@ FrontEnd Battle 3.0 phase 2/
 **Designed & Developed for Frontend Battle 3.0 Phase 2**  
 *Built with passion, extreme precision, and futuristic design standards.*
 
-[⭐ Star this Repository](https://github.com/) · [🐛 Report Bug](https://github.com/) · [💡 Request Feature](https://github.com/)
+[⭐ Star this Repository](https://github.com/sagarswain-lab/RPA-MONITOR-2026) · [🐛 Report Bug](https://github.com/sagarswain-lab/RPA-MONITOR-2026/issues) · [💡 Request Feature](https://github.com/sagarswain-lab/RPA-MONITOR-2026/issues)
 
 </div>
